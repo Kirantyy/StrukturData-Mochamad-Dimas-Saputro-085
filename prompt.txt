@@ -1,0 +1,17 @@
+tolong buatkan program (Java dan Python) menggunakan struktur data array (fixed-size array) dengan kapasitas 10, untuk menyimpan sejumlah data mahasiswa (nim dan nama). Program memiliki menu sebagai berikut:
+1. Insert at beginning
+2. Insert at given position
+3. Insert at end
+4. Delete from beginning
+5. Delete given position
+6. Delete from end
+7. Delete first occurence
+8. Show data
+9. Exit
+
+NB:
+1. setiap operasi insert maka variabel count ditambah dengan 1.
+2. Setiap operasi delete variabel count dikurang dengan 1
+3. kapasitas array baik baris maupun kolom boleh ditambah jumlahnya
+4. tidak boleh menggunakan library untuk operasi array
+5. tolong berikan comment pada source code agar saya dapat memahami alur dan logika program
