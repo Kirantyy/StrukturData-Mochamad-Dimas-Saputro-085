@@ -1,0 +1,41 @@
+Buat program (Java & Python) untuk simulasi teks berjalan 
+berisi berita seperti yang sering tampil di televisi.
+
+Program menggunakan struktur data Circular Doubly Linked List.
+
+Program dilengkapi dengan fitur:
+- Tambah teks berita
+- Hapus teks berita
+
+Teks berita akan tampil secara berurutan 
+berdasarkan urutan dalam linked list.
+
+MENU:
+1. Insert berita 
+   (berita baru selalu ditambahkan di akhir)
+
+2. Hapus berita 
+   (berdasarkan nomor urut)
+
+3. Tampilkan berita secara forward 
+   (teks berita tampil dari depan ke belakang 
+   dengan delay 3 detik antar berita)
+
+4. Tampilkan berita secara backward 
+   (teks berita tampil dari belakang ke depan 
+   dengan delay 3 detik antar berita)
+
+5. Tampil berita tertentu 
+   (berdasarkan nomor urut)
+
+6. Exit
+
+Output dibuat seperti berita TV,
+teks berjalan ke samping dan berganti setiap 3 detik.
+
+Output berjalan terus sampai dihentikan manual 
+(misal dengan menekan ENTER).
+
+Setelah dihentikan, program kembali ke menu.
+
+Tambahkan komentar pada setiap bagian kode.
