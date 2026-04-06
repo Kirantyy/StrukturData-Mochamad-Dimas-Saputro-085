@@ -1,0 +1,11 @@
+Buatkan program menggunakan bahasa pemrograman Java dan Python dengan struktur data Binary Search Tree (BST). Program harus memiliki fitur sebagai berikut:
+
+Tambah Data (Insert): Menambahkan Node baru berdasarkan ID.
+
+Cari Data (Search): Mencari data berdasarkan ID.
+
+Hapus Data (Delete): Menghapus Node berdasarkan ID.
+
+Traversal: Menampilkan data secara Inorder, Preorder, dan Postorder.
+
+Load CSV: Membaca data ID dan Nama dari file data.csv (Delimiter: titik koma ;)
