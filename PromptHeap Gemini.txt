@@ -1,0 +1,24 @@
+Buat program (Java & Python) menggunakan struktur data Heap 
+dengan fitur program terdiri dari:
+
+(1) Tambah data (id, nama) ke dalam min-heap 
+    dan max-heap sekaligus
+
+(2) Tampilkan data urut berdasarkan id 
+    secara ascending menggunakan Min-Heap
+
+(3) Tampilkan data urut berdasarkan id 
+    secara descending menggunakan Max-Heap
+
+(4) Hapus data dari min-heap
+
+(5) Hapus data dari max-heap
+
+(6) Untuk starting data awal, inputkan seluruh data 
+    (id dan nama) yang ada dalam file excel berikut 
+    (terlampir) ke dalam struktur data masing-masing 
+    min-heap dan max-heap
+
+Datanya sudah ada, jadi nama file data 
+akan saya input ke dalam output dari codenya 
+(seperti BST, tetapi menggunakan struktur Heap).
