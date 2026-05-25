@@ -1,0 +1,11 @@
+Tolong bantu menggunakan Py dan Java buat program dengan Menu sebagai berikut:
+
+MENU:
+1. Tambah Vertex
+2. Hapus Vertex
+3. Tambah Edge
+4. Hapus Edge
+5. Tampilkan graph (bisa berupa gambar atau matrix)
+6. Traversal DFS
+7. Traversal BFS
+8. Quit
